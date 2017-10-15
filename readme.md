@@ -1,0 +1,1 @@
+Boilerplate version of Weather Application using ReactJS 
