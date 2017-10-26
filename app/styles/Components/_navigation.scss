@@ -6,6 +6,9 @@
   .menu-text {
     color: $navigation-color;
   }
+  .active-link {
+    font-weight: bold;
+  }
 }
 
 .menu>li>a{
