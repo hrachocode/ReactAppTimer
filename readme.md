@@ -1,1 +1,1 @@
-Boilerplate version of Weather Application using ReactJS 
+React Timer application
